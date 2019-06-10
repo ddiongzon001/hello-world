@@ -1,4 +1,4 @@
 # hello-world
 testing out github
 
-I'm new to using Githun and I'm following the Hello World walkthrough
+I'm new to using Github and I'm following the Hello World walkthrough
